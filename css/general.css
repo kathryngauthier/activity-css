@@ -1,0 +1,26 @@
+/* CSS Document*/
+
+html {
+    font-family: Garamond, serif;
+    border-top:5px solid #127;
+    border-bottom: 5px solid #127;
+}
+
+body {
+    background-color:#845
+}
+
+h1 {
+    font-family: Papyrus;
+    font-size: 40px
+}
+
+P,
+li {
+    font-size:18px;
+    line-height: 2rem;
+}
+
+hr {
+    border:solid 2px #345
+}
